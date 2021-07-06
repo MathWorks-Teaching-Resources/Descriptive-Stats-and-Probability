@@ -8,7 +8,7 @@ _Created with R2020a. Compatible with R2020a and later releases._
 ## Description ##
 This package contains _[live scripts](https://www.mathworks.com/products/matlab/live-editor.html)_ centered around the fundamentals of descriptive statistics and some commonly used probability distributions. These materials are designed to be flexible and can be easily modified to accommodate a variety of teaching and learning methods. Used in a sequence, the live scripts progressively add depth to the topic. However, each script can be easily adapted for standalone use. It includes a brief background, interactive illustrations, tasks, reflection questions, and example problems for the different concepts explored.
 
-<img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "500">
+<img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "350">
 
 ## Suggested Prework ## 
 [MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB. 
