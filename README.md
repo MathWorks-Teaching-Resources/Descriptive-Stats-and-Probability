@@ -11,7 +11,7 @@ This package contains _[live scripts](https://www.mathworks.com/products/matlab/
 <img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "400">
 
 ## Suggested Prework ## 
-[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB. 
+[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB®. 
 
 ## Details ##
 
