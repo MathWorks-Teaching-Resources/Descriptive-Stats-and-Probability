@@ -1,4 +1,4 @@
-# Descriptive Statistics and Probability Distributions [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-Phase-Plane-and-Slope-Field)
+# Descriptive Statistics and Probability Distributions [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-stats-and-probability)
 **Curriculum Module created in collaboration with Ward Nickle, Humboldt State University**  
   
 _Created with R2020a. Compatible with R2020a and later releases._
