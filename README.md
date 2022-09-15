@@ -1,4 +1,7 @@
-# Descriptive Statistics and Probability Distributions [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-stats-and-probability) or [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj)
+# Descriptive Statistics and Probability Distributions 
+[![View Descriptive Statistics and Probability Distributions on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-stats-and-probability) 
+or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj)
+
 **Curriculum Module in collaboration with Ward Nickle, Humboldt State University**  
 _Created with R2020a. Compatible with R2020a and later releases._
 
@@ -18,7 +21,7 @@ the essentials of MATLAB®.
 
 ## Details ##
 
-**`descriptiveStatistics.mlx`** [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=descriptiveStatistics.mlx)  
+**`descriptiveStatistics.mlx`** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=descriptiveStatistics.mlx)  
 **Learning Goals**
 - Display a quantitative variable as a histogram.
 - Determine and interpret the mean and the median.
@@ -27,7 +30,7 @@ the essentials of MATLAB®.
 - Display a quantitative variable as a boxplot.  
 
 ## ##
-**`discreteDistributions.mlx`** [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=discreteDistributions.mlx)  
+**`discreteDistributions.mlx`** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=discreteDistributions.mlx)  
 **Learning Goals**  
 - Define a probability distribution.
 - Find statistics given a discrete probability distribution.
@@ -36,7 +39,7 @@ the essentials of MATLAB®.
 - Use the Poisson distribution.
   
 ## ##
-**`continuousDistributions.mlx`** [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=continuousDistributions.mlx)  
+**`continuousDistributions.mlx`** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=continuousDistributions.mlx)  
 **Learning Goals**  
 - Describe and use the uniform probability distribution.
 - Describe and use the normal probability distribution.
