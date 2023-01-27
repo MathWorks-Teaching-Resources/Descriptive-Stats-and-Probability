@@ -16,7 +16,7 @@ tasks, reflection questions, and example problems for the different concepts exp
 <img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "500">
 
 ## Suggested Prework ## 
-[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn 
+[MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial to learn 
 the essentials of MATLAB®. 
 
 ## Details ##
