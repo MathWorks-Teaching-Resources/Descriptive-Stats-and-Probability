@@ -24,7 +24,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
     properties (Access = private)
         GitHubOrganization = "MathWorks-Teaching-Resources"; % Description
         GitHubRepository = "Descriptive-Stats-and-Probability";
-        ImagePath {mustBeFile} = fullfile("Images","Binomial.png"); 
+        ImagePath {mustBeFile} = fullfile(currentProject().RootFolder,"Images","Binomial.png"); 
     end
 
     properties (Access = private)
