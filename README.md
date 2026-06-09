@@ -4,7 +4,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-statistics-and-probability-distributions) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/descriptive-statistics-and-probability-distributions/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/descriptive-statistics-and-probability-distributions)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Descriptive-Stats-and-Probability/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Descriptive-Stats-and-Probability)
 
 **Curriculum Module**
 
