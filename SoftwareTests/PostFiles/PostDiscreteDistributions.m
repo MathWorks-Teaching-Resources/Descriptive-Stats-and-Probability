@@ -1,3 +1,3 @@
-%  Post-run script for DiscreteDistributions.mlx
+%  Post-run script for DiscreteDistributions.m
 % ---- Post-run commands -----
- 
+% <matlab:ShareFeedback Share your feedback>

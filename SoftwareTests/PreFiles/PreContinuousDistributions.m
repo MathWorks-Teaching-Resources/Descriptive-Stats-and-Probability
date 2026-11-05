@@ -1,5 +1,5 @@
-%  Pre-run script for ContinuousDistributions.mlx
+%  Pre-run script for ContinuousDistributions.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
- 
+% <matlab:ShareFeedback Share your feedback>

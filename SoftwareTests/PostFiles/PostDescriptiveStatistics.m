@@ -1,3 +1,3 @@
-%  Post-run script for DescriptiveStatistics.mlx
+%  Post-run script for DescriptiveStatistics.m
 % ---- Post-run commands -----
- 
+% <matlab:ShareFeedback Share your feedback>

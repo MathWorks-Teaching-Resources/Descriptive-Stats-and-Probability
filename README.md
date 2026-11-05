@@ -2,13 +2,15 @@
 # <span style="color:rgb(213,80,0)">Descriptive Statistics and Probability Distributions</span>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-statistics-and-probability-distributions) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-statistics-and-probability-distributions) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=README.m)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Descriptive-Stats-and-Probability/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Descriptive-Stats-and-Probability)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Descriptive-Stats-and-Probability/TestedWith.json)](https://mathworks-teaching-resources.github.io/Descriptive-Stats-and-Probability)
 
 **Curriculum Module**
 
-_Created with R2024a. Compatible with R2024a and later releases._
+_Requires MATLAB R2025a or later for plain-text live scripts._
+
+For MATLAB R2024b or older, use the [legacy MLX release](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability/releases/tag/mlx).
 
 # Information
 
@@ -17,7 +19,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 
 ## Background
 
-You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. This module covers descriptive statistics such as mean, median, range, variance and standard deviation and visualizations such as histograms and boxplots. Additional scripts address discrete and continuous probability distributions including the binomial and Poisson distributions as well as the uniform, normal, and exponential distributions. 
+You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. This module covers descriptive statistics such as mean, median, range, variance and standard deviation and visualizations such as histograms and boxplots. Additional scripts address discrete and continuous probability distributions including the binomial and Poisson distributions as well as the uniform, normal, and exponential distributions.
 
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/EndIcon.png" width="19" alt="EndIcon.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
@@ -40,10 +42,10 @@ Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https:/
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [StatsAndProb.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [StatsAndProb.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=README.m). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
 
 
-Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
+Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**.
 
 
 ## Products
@@ -51,21 +53,21 @@ Ensure you have all the required products (listed below) installed. If you need 
 MATLAB® and the Statistics and Machine Learning Toolbox™ are used throughout
 
 # Scripts
-## [**DescriptiveStatistics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/DescriptiveStatistics.mlx) 
+## [**DescriptiveStatistics.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/DescriptiveStatistics.m)
 |      |      |
 | :-- | :-- |
 |  | **In this script, students will...** <br>   |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | $\bullet$ display a quantitative variable as a histogram. <br> $\bullet$ determine and interpret the mean, median, range, variance, standard deviation, and measures of position. <br> $\bullet$ display a quantitative variable as a boxplot. <br>   |
 |      |       |
 
-## [**DiscreteDistributions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/DiscreteDistributions.mlx) 
+## [**DiscreteDistributions.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/DiscreteDistributions.m)
 |      |      |
 | :-- | :-- |
 |  | **In this script, students will...** <br>   |
 | <img src="Images/Binomial.png" width="171" alt="Binomial.png"> <br>  | $\bullet$ define a probability distribution. <br> $\bullet$ find statistics given a discrete probability distribution. <br> $\bullet$ use the binomial distribution, hypergeometric distribution, and Poisson distribution. <br>   |
 |      |       |
 
-## [**ContinuousDistributions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/ContinuousDistributions.mlx) 
+## [**ContinuousDistributions.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability&project=StatsAndProb.prj&file=Scripts/ContinuousDistributions.m)
 |      |      |
 | :-- | :-- |
 |  | **In this script, students will...** <br>   |
@@ -83,13 +85,14 @@ MATLAB® and the Statistics and Machine Learning Toolbox™ are used throughout
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
 # Educator Resources
--  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 
-# Contribute 
+[Instructor documentation](InstructorResources/Documentation/README.md) includes customization and student-version guidance.
+
+-  [Educator Page](https://www.mathworks.com/academia/educators.html)
+
+# Contribute
 
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
- *©* Copyright 2025 The MathWorks, Inc
-
-
+ *©* Copyright 2025-2026 The MathWorks, Inc
